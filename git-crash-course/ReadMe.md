@@ -21,5 +21,5 @@ The command is:
 
 Learning how to work in Markdown requires you to know the commands:
 
-# # 
+# '#' 
 Is used for title. It is added before the content of what you want as a title. Adding more '#' will reduce the size of the title. The largest title can be gained only with one #.
