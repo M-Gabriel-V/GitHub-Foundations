@@ -5,7 +5,7 @@ We can clone 3 ways: HTTPS, SSH, GitHub CLI.
 ### HTTPS
 
 The command is:
-``` git clone https://github.com/M-Gabriel-V/GitHub-Foundations.git ```
+```md git clone https://github.com/M-Gabriel-V/GitHub-Foundations.git ```
 
 ## Commits
 
@@ -24,5 +24,5 @@ Learning how to work in Markdown requires you to know the commands:
 ## ' # ' 
 Is used for titles, sub-titles, sub-sub-titles and so on. The more '#' are added, the smaller the size of the content.
 
-## ' ``` {} ``` '
-Is used to add code
+## ' ``` '
+Must be added 
