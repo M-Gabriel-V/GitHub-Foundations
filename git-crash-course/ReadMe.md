@@ -5,7 +5,9 @@ We can clone 3 ways: HTTPS, SSH, GitHub CLI.
 ### HTTPS
 
 The command is:
-```md git clone https://github.com/M-Gabriel-V/GitHub-Foundations.git ```
+```sh 
+git clone https://github.com/M-Gabriel-V/GitHub-Foundations.git 
+```
 
 ## Commits
 
