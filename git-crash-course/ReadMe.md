@@ -60,10 +60,12 @@ git status
 
 ## Commiting changes to the repo
 
+This will save all submited changes to the git repo, saving the commit as a node in the version controll tree. 
+
 ```sh
 git commit
 ```
-This will save all submited changes to the git repo, saving the commit as a node in the version controll tree. 
+
 
 ```Note - A selected IDE will be opened to allow you to write down detailed changes for the commit.```
 
@@ -94,6 +96,16 @@ It must include:
 - things to look out for
 
 The body can be seen when accessing the commit itself.
+
+---
+
+### Fast Commit
+If the change is minimal and does not require any detailed explanation, which can be refered only from the title, then the commit can be done faster:
+
+```sh
+git commit -m "Message"
+```
+
 
 # Markdown
 
